@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in JavaScript related to handling null values and type coercion. The bug is that the function doesn't explicitly check for falsy values (like 0, false, "", etc.) which can lead to unexpected results. The solution provides a more robust approach.
